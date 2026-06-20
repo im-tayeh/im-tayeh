@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Tayeh</h1>
+<h1 align="center">Hi, I'm Ibrahim Tayeh</h1>
 <h3 align="center">Backend Developer · .NET · ASP.NET Core Web API</h3>
 
-- 🔭 Building REST APIs with ASP.NET Core, EF Core & LINQ
-- 🌱 Currently improving my backend & database skills
-- 💬 Ask me about C#, .NET, ASP.NET Core, and SQL
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/im-tayeh)
-- 📍 Based in Gaza, Palestine
+- Building REST APIs with ASP.NET Core, EF Core & LINQ
+- Currently improving my backend & database skills
+- Ask me about C#, .NET, ASP.NET Core, and SQL
+- Reach me on [LinkedIn](https://www.linkedin.com/in/im-tayeh)
+- Based in Gaza, Palestine
 
 ### 🛠 Tech Stack
 
@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=im-tayeh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
