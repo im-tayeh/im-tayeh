@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ibrahim Tayeh</h1>
 <h3 align="center">Backend Developer · .NET · ASP.NET Core Web API</h3>
 
-- Building REST APIs with ASP.NET Core, EF Core & LINQ
+- Building REST APIs with ASP.NET, EF Core & LINQ
 - Currently improving my backend & database skills
 - Ask me about C#, .NET, ASP.NET Core, and SQL
 - Reach me on [LinkedIn](https://www.linkedin.com/in/im-tayeh)
