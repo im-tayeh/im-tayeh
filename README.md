@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ibrahim Tayeh</h1>
-<h3 align="center">Backend Developer · .NET · ASP.NET Core Web API</h3>
+<h3 align="center">Backend Developer | ASP.NET Web API</h3>
 
 - Building REST APIs with ASP.NET, EF Core & LINQ
 - Currently improving my backend & database skills
