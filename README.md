@@ -1,6 +1,6 @@
 # Ibrahim Tayeh
 
-**Backend Developer | C# | ASP.NET Core**
+**Backend Developer | ASP.NET Core**
 
 Backend developer working with C# and ASP.NET Core. Builds REST APIs using Clean Architecture, EF Core, and relational databases, with attention to security, performance, and maintainable code.
 
